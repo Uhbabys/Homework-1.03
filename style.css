@@ -1,0 +1,52 @@
+body {
+    font-family: 'VT323', monospace;
+    background-color: #1e1e1e;
+    color: #ffffff;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    text-align: center;
+    padding: 20px;
+}
+
+.character-name {
+    font-size: 36px;
+}
+
+.character-image {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.character-details, .character-life, .character-quote {
+    margin: 20px;
+    padding: 20px;
+    border: 2px solid #333333;
+    background-color: #333333;
+}
+
+h2 {
+    color: #f0ad4e;
+}
+
+table {
+    width: 100%;
+    color: #ffffff;
+}
+
+table td {
+    padding: 8px;
+}
+
+ul {
+    list-style-type: square;
+    padding-left: 20px;
+    color: #ffffff;
+}
+
+blockquote {
+    font-style: italic;
+    color: #f0ad4e;
+}
